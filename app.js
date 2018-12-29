@@ -32,8 +32,8 @@ $(document).ready(function(){
 					img.appendTo("#results");
 				}
 
+
 			});
 		}
 	});
-
-});
+	
